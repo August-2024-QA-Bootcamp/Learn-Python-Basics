@@ -1,4 +1,4 @@
-print("------------------------------------------")
+print("-------------------  Variables -----------------------")
 # here 'name' is a variable, which is holding a data
 name = "Mohammad Sharkar"
 print(name)
@@ -13,7 +13,9 @@ usCitizen = True
 print(usCitizen)
 
 # Above 4 data is not same
+# You have to memorize it
 # str represent string/Text type, represent by double quotation
+# type() function is also a library function
 print(type(name))
 
 # int represent integer/numeric type, represent by no quotation
