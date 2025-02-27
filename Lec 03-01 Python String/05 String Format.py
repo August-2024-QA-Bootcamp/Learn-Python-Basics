@@ -22,3 +22,4 @@ salary = 125000
 
 outcome = f"My Name is {fname} {lname}, my age {age} and my salary {salary}"
 print(outcome)
+
